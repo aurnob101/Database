@@ -1,2 +1,2 @@
-# CUSAS - Chittaging University Smart Attendance System
+# CUSAS - Chittagong University Smart Attendance System
 
