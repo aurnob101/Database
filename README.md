@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -476,3 +477,7 @@ figcaption h3
 {
 	background: #f3f3f3;
 }
+=======
+# CUSAS - Chittagong University Smart Attendance System
+
+>>>>>>> 52fbb84c57e21d4fbde18b2e264123909306b297
