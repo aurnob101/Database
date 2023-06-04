@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 
@@ -279,7 +279,7 @@ if (isset($_POST['submit'])) {
     <!-- End Skills Section -->
 
 
-    <!-- ======= Portfolio Section ======= -->
+   
     
     <section id="portfolio" class="portfolio section-bg">
       <div class="container">
@@ -360,18 +360,7 @@ if (isset($_POST['submit'])) {
 
    
 
-  <!-- ======= Footer ======= -->
-  <!-- <footer id="footer">
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>arrr.cusas.com</span></strong>
-      </div>
-      <div class="credits">
-        
-        Designed by <a href="https://The Great Jobra Lab/">The Great Jobra Lab</a>
-      </div>
-    </div>
-  </footer> -->
+  
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
@@ -391,7 +380,7 @@ if (isset($_POST['submit'])) {
 
 </body>
 
-=======
+
 <?php
 
 
@@ -784,5 +773,5 @@ if (isset($_POST['submit'])) {
 
 </body>
 
->>>>>>> a0dff8a6904b5433bbd40bf12bc1f45fa464a6d8
+
 </html>
