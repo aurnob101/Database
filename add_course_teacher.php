@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 if (isset($_POST['submit2'])) {
     // include database connection code
@@ -83,5 +83,3 @@ if (isset($_POST['submit2'])) {
 }
 ?>
 
-
->>>>>>> a0dff8a6904b5433bbd40bf12bc1f45fa464a6d8
